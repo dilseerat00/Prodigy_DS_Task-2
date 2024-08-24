@@ -42,3 +42,9 @@ Task-02: Perform data cleaning and exploratory data analysis (EDA) on a dataset 
 This project significantly enhanced my skills in data cleaning and exploratory data analysis (EDA). By working with the Titanic dataset, I was able to identify key patterns and trends, such as the correlation between passenger class, gender, and survival rates. The insights gained from this analysis not only deepened my understanding of data manipulation and visualization techniques but also provided practical experience in deriving meaningful conclusions from real-world datasets.
 
 This task has been instrumental in strengthening my ability to work with complex datasets and effectively communicate findings through clear and impactful visualizations.
+
+## 📬 Contact
+For any inquiries or feedback regarding this project, please contact:
+- **Email**: [dilseeratjassal@gmail.com](mailto:dilseeratjassal@gmail.com)
+- You can connect with me on LinkedIn to discuss data science, machine learning, or related topics:
+  [DilseeratKaur](https://www.linkedin.com/in/dilseerat-kaur-9502702b0/)
